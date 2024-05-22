@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/pCNI6pP.png)
+![Logo](https://imgur.com/1YJsmYB.png)
 
     
 # RuloGofret Öğrenci Takip Sistemi
@@ -19,27 +19,32 @@ hayatına düzen katabilecektir
 **Kullanılan Framework:** Qt Framework
 
   
-## Çıkarılan Dersler
+## Amacımız
 
-Bu projeyi inşa ederken neler öğrendiniz? Ne tür zorluklarla karşılaştınız ve bunları nasıl aştınız?
-
-    Takım olarak kordineli çalışmak...
-## Yol haritası
-
-- Placeholder fln filan
-
-- e
-  
-## Geri Bildirim
-
-Herhangi bir geri bildiriminiz varsa, lütfen fake@fake.com adresinden bize ulaşın.
-
-  
+- placeholder
 ## Özellikler
 
 - Açık/koyu mod geçişi
 - Öğrenciye sövebilmek
 - Tam ekran modu
 - Tüm platformlara destek
+
+  
+## Yol haritası
+
+- Placeholder fln filan
+
+- e
+  
+## Yazarlar ve Teşekkür
+
+- [@Den1zzDev](https://www.github.com/Den1zzDev) Github sayfasını yaptığı ve projede çalıştığı içi teşekkür ederiz
+- [@Den1zzDev](https://www.github.com/Den1zzDev) Projede çalıştığı içi teşekkür ederiz
+- [@Den1zzDev](https://www.github.com/Den1zzDev) Projede çalıştığı içi teşekkür ederiz
+- [@Den1zzDev](https://www.github.com/Den1zzDev) Projede çalıştığı içi teşekkür ederiz
+- [@Den1zzDev](https://www.github.com/Den1zzDev) Projede çalıştığı içi teşekkür ederiz
+## Geri Bildirim
+
+Herhangi bir geri bildiriminiz varsa, lütfen fake@fake.com adresinden bize ulaşın.
 
   
