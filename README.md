@@ -1,5 +1,5 @@
 
-![Logo](https://imgur.com/1YJsmYB.png)
+![Logo](https://imgur.com/2jQrhV5.png)
 
     
 # RuloGofret Öğrenci Takip Sistemi
