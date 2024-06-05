@@ -49,9 +49,13 @@ hayatına düzen katabilecektir
 ## Yazarlar ve Teşekkür
 
 - [@BahadRise0](https://github.com/BahadRise0) Proje Kaptanlığı yaptığı ve projede calıştığı için teşekkür ederiz 
+
 - [@Kaanonr](https://github.com/Kaanonr) Yazılımda büyük bir parça oynadığı için projede çalıştığı için teşekkür ederiz
+
 - [@Den1zzDev](https://www.github.com/Den1zzDev) Github sayfasını yaptığı ve projede çalıştığı için teşekkür ederiz
+
 - [@yuskuz74](https://github.com/yuskuz74) Tasarım süreci ve fikir bulma aşamasıı yürüttüğü ve projede çalıştığı içi teşekkür ederiz
+
 - [@7Dogukan4](https://www.github.com/7Dogukan4) Projede çalıştığı içi teşekkür ederiz
 
 ## Bize Ulaşın
