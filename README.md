@@ -31,7 +31,7 @@ hayatına düzen katabilecektir
 
 * Belirli olmayan öğrenci kayıtları:
 
-        Bu sistem sayesinde öğrencilerinad-soyad-numara kayıtları kolay yoldan görünür
+        Bu sistem sayesinde öğrencilerin ad-soyad-numara kayıtları kolay yoldan görünür
 
 * Öğrenci deneme sınav takibi:
 
