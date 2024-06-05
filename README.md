@@ -54,9 +54,9 @@ hayatına düzen katabilecektir
 
 - [@Den1zzDev](https://www.github.com/Den1zzDev) Github sayfasını yaptığı ve projede çalıştığı için teşekkür ederiz
 
-- [@yuskuz74](https://github.com/yuskuz74) Tasarım süreci ve fikir bulma aşamasıı yürüttüğü ve projede çalıştığı içi teşekkür ederiz
+- [@yuskuz74](https://github.com/yuskuz74) Tasarım süreci ve fikir bulma aşamasıı yürüttüğü ve projede çalıştığı için teşekkür ederiz
 
-- [@7Dogukan4](https://www.github.com/7Dogukan4) Projede çalıştığı içi teşekkür ederiz
+- [@7Dogukan4](https://www.github.com/7Dogukan4) Projede çalıştığı için teşekkür ederiz
 
 ## Bize Ulaşın
 
