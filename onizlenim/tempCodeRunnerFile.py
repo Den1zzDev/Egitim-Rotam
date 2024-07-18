@@ -1,0 +1,1 @@
+self.turkceO[0]

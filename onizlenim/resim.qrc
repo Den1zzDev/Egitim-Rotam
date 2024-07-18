@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>resim/ipucu.png</file>
+    <file>resim/bos.png</file>
+    <file>resim/ekle_cikar_liste.png</file>
+    <file>resim/cikar.png</file>
+    <file>resim/ekle.png</file>
+    <file>resim/egitimRotam.png</file>
+    <file>resim/add.png</file>
+    <file>resim/reset.png</file>
+    <file>resim/bul.png</file>
+    <file>resim/0.png</file>
+    <file>resim/5.png</file>
+    <file>resim/2.png</file>
+    <file>resim/logoo.png</file>
+    <file>resim/image.png</file>
+    <file>resim/main.png</file>
+    <file>resim/image.png</file>
+  </qresource>
+</RCC>
